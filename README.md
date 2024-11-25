@@ -4,6 +4,10 @@
   <img src="docs/Sensor de Estacionamento.png" alt="Sensor de Ré" width="400px">
 </p>
 
+<p align="center">
+  <img src="docs/cap.png" alt="Sensor de Ré" width="400px">
+</p>
+
 ---
 
 ## 📖 **Descrição**
