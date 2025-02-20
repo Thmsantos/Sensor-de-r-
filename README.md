@@ -33,4 +33,3 @@ Este projeto utiliza um **sensor de distância ultrassônico** para criar um sis
    - O **buzzer piezo** emite um som.
 3. A distância é exibida no monitor serial.
 
----
